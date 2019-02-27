@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "a cool stream",
+      "id": 1
+    },
+    {
+      "title": "hi",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "title": "unexpected",
+      "description": "D:",
+      "userId": "114416663227919566364",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "beam me up! Changed with PATCH request",
+      "userId": "114416663227919566364",
+      "id": 5
+    },
+    {
+      "title": "Component reuse!",
+      "description": "refactor oh yeah",
+      "id": 6
+    }
+  ]
+}
